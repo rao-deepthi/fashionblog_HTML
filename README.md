@@ -1,4 +1,4 @@
-# fashion_blog_practice
+# fashion_blog
 ## Practicing HTML
 
 This is a static webpage built using __HTML__.
